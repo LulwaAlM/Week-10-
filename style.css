@@ -8,3 +8,12 @@
   background:darkgreen;  
   transform:scale(1.1);   
 }
+
+
+.zoomimage {
+  transition: 0.5s;       
+}
+
+.zoomimage:hover {
+  transform: scale(1.1);   
+}
