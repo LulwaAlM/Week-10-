@@ -19,3 +19,9 @@ padding: 5px;
 .dropdown:hover .options{
   display: block; 
 }
+
+.options a {
+  display: block; 
+  padding: 5px;
+  color: black;
+}
