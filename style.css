@@ -9,7 +9,11 @@
   transform:scale(2.1); 
 }
 
-
+.option { 
+display: none;
+  background: grey;
+  padding: 6px;
+}
 .dropdown:hover .options{
   display: block; 
 }
