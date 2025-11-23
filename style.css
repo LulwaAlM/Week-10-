@@ -9,17 +9,6 @@
   transform:scale(2.1); 
 }
 
-.options {
-display: none; 
-background: darkgrey;
-padding: 5px;
-  
-}
-
-.dropdown:hover .options{
-  display: block; 
-}
-
 .options a {
   display: block; 
   padding: 5px;
