@@ -4,7 +4,7 @@
   padding:15px;
 }
 
-.hover:hover{
+.hover:hover {
   background:darkgreen;
-  transform:scale(1.2); 
+  transform:scale(1.1); 
 }
