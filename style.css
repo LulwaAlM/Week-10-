@@ -11,9 +11,9 @@
 
 
 .zoomimage {
-  transition: 0.5s;       
+  transition: 0.3s;       
 }
 
 .zoomimage:hover {
-  transform: scale(1.1);   
+  transform: scale(1.2);   
 }
