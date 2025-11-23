@@ -9,6 +9,10 @@
   transform:scale(2.1); 
 }
 
+
+.dropdown:hover .options{
+  display: block; 
+}
 .options a {
   display: block; 
   padding: 5px;
