@@ -18,3 +18,11 @@
   padding: 5px;
   color: black;
 }
+
+.zoomimage {
+  transtion: 0.3; 
+}
+
+.zoomimage: hover { 
+transform: scale (1.2);
+}
