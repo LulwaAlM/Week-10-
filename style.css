@@ -34,3 +34,9 @@
   text-decoration: none;
   color: black;
 }
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
