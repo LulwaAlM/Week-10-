@@ -18,7 +18,7 @@
   transform: scale(1.2);   
 }
 
-options {
+.options {
   display: none;        
   background: grey;     
   padding: 4px;         
